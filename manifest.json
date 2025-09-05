@@ -1,0 +1,19 @@
+{
+    "name": "APP progressivo",
+    "short_name": "primeira PWA",
+    "icons": [{
+        "src": "images/mhwns1hz9nb21.png",
+        "sizes": "256x256",
+        "type": "image/png"
+    },{
+        "src": "images/Icon_Pinguin_1_512x512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ],
+    "lang": "pt-BR",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "white",
+    "theme_color": "white"
+}
